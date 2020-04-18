@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2016 Jonny Heggheim <jonnyheggheim@sigaint.org> -->
+<component type="desktop">
+  <id>electrum.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT and BSD</project_license>
+  <name>Electrum</name>
+  <summary>A lightweight Bitcoin Client</summary>
+  <description>
+    <p>
+	    Electrum is an easy to use Bitcoin client. It protects you from losing
+	    coins in a backup mistake or computer failure, because your wallet can
+	    be recovered from a secret phrase that you can write on paper or learn
+	    by heart. There is no waiting time when you start the client, because
+	    it does not download the Bitcoin block chain.
+    </p>
+  </description>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/06-main-empty.png</image>
+      <caption>Main window on after the wizard is done</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/01-install-wizard-connect-to-sever.png</image>
+      <caption>Install wizard connect to server</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/02-install-wizard-wallet-type.png</image>
+      <caption>Install wizard wallet type</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/03-install-wizard-keystore.png</image>
+      <caption>Install wizard keystore</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/04-install-wizard-generation-seed.png</image>
+      <caption>Install wizard generation seed</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/05-install-wizard-password.png</image>
+      <caption>Install wizard password</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/07-receive.png</image>
+      <caption>Receive bitcoin</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/10-send-freedom-fund.png</image>
+      <caption>Send bitcoin</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/11-url-integration.png</image>
+      <caption>URL integration</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://jonny.fedorapeople.org/electrum-2.7.12-screenshot-gnome/13-main-many-transactions.png</image>
+      <caption>Main window after several transactions</caption>
+    </screenshot>
+  </screenshots>
+
+  <url type="homepage">https://electrum.org/</url>
+  <update_contact>jonnyheggheim_at_sigaint.org</update_contact>
+</component>
