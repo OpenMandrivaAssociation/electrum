@@ -17,6 +17,7 @@ Source3:        electrum.appdata.xml
 BuildArch:      noarch
 
 BuildRequires:  python3-devel
+BuildRequires:  python3-setuptools
 BuildRequires:  python-qt5-devel
 BuildRequires:  desktop-file-utils
 BuildRequires:  gettext
