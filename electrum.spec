@@ -25,7 +25,7 @@ BuildRequires:  gettext
 BuildRequires:  appstream-util
 BuildRequires:  gnupg2
 Requires:       python-qt5
-Requires:       python-crytography
+Requires:	python-cryptography
 Requires:       python-pycryptodomex
 Conflicts:      python3-trezor < 0.11.2
 
