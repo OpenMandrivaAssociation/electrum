@@ -1,7 +1,7 @@
 %{?python_enable_dependency_generator}
 
 Name:           electrum
-Version:	4.0.5
+Version:	4.0.9
 Release:	1
 Summary:        A lightweight Bitcoin Client
 
