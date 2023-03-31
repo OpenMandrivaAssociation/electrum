@@ -2,7 +2,7 @@
 
 Name:		electrum
 Version:	4.2.1
-Release:	1
+Release:	2
 Summary:	A lightweight Bitcoin Client
 
 License:	MIT
