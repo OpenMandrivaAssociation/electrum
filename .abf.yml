@@ -1,4 +1,4 @@
 sources:
-  Electrum-4.2.1.tar.gz: a5aeee008e35fbceb4a0aeba666ad878755f868c
-  Electrum-4.2.1.tar.gz.asc: c616e2066a202a10b190fbdc6ae2e530c9e15755
-  gpgkey-electrum.gpg: a9a49eb874c29b15cbd6a4513bcafa6bae89befd
+  Electrum-4.8.0.tar.gz: 4e98e653469be84e43126d339a6ac3869e603c6a
+  Electrum-4.8.0.tar.gz.asc: 11c2c320d880ef5e4bdc02077e3d528694b27ec3
+  gpgkey-electrum.gpg: 1de0f09f9e0fc7d102028894d73b464cd30a1a6d

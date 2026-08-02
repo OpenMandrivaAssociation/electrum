@@ -1,16 +1,21 @@
 %{?python_enable_dependency_generator}
 
 Name:		electrum
-Version:	4.2.1
-Release:	3
+Version:	4.8.0
+Release:	1
 Summary:	A lightweight Bitcoin Client
 
 License:	MIT
 URL:		https://electrum.org/
 Source0:	https://download.electrum.org/%{version}/Electrum-%{version}.tar.gz
 Source1:	https://download.electrum.org/%{version}/Electrum-%{version}.tar.gz.asc
-#Wed Feb 01 2017, exported the upstream gpg key using the command:
-#gpg2 --export --export-options export-minimal 6694D8DE7BE8EE5631BED9502BD5824B7F9470E6 > gpgkey-electrum.gpg
+# Electrum release multi-sig keys (ThomasV, SomberNight, Stephan Oeste/Emzy,
+# Felix B., Sebastian van Staa). Export with e.g.:
+# gpg --export 6694D8DE7BE8EE5631BED9502BD5824B7F9470E6 \
+#   0EEDCFD5CAFB459067349B23CA9EEEC43DF911DC \
+#   9EDAFF80E080659604F4A76B2EBB056FD847F8A7 \
+#   AA0BC6824B397BBA99776E157ED8D82B37192688 \
+#   33C103B4B2794170546CCF7BCFB2C83C66CD792A > gpgkey-electrum.gpg
 Source2:	gpgkey-electrum.gpg
 Source3:	electrum.appdata.xml
 Source4:	electrum.1
